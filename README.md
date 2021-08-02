@@ -1,4 +1,11 @@
 # Roblox Friday Night Funkin': Lemon Engine
 
-### If you want to build Lemon Engine, you will have to read instructions(will be made once made custom stages/characters/songs support.)
+### As of now you have to figure out how to use this since the songs, tracks, characters and stages are hardcoded in the scripts.
+
+im a fucking idiot
+
+made by 3 people
+Me
+corblox
+and ur mom
 
