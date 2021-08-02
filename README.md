@@ -1,2 +1,4 @@
-# Lemon-Engine
-Roblox FNF Engine for your own needs with Quality Of Life features from the Kade Engine included.
+# Roblox Friday Night Funkin': Lemon Engine
+
+### If you want to build Lemon Engine, you will have to read instructions(will be made once made custom stages/characters/songs support.)
+
